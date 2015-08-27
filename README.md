@@ -81,7 +81,7 @@ List official U.S. government social media accounts entries in the registry. Thi
 List all official accounts from the U.S. Department of Agriculture: [http://registry.usa.gov/accounts?agency_id=usda](http://registry.usa.gov/accounts?agency_id=usda)
 
 List all official Twitter accounts from the U.S. Department of Health and Human Services:
-[http://registry.usa.gov/accounts?service=twitter&agency_id=hhs](http://registry.usa.gov/accounts?service=twitter&agency_id=hhs)
+[http://registry.usa.gov/accounts?service_id=twitter&agency_id=hhs](http://registry.usa.gov/accounts?service_id=twitter&agency_id=hhs)
 
 ### /accounts/{service ID} (GET)
 
